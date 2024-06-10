@@ -80,7 +80,17 @@ facebook -  https://www.facebook.com/rushikesh.borude.180
 
 Instagram - https://www.instagram.com/rushikesh.borude_offical/
 
-portfolio - https://rushikeshborude.github.io/Portfolio-of-Software-Engineer-and-Full-Stack-Web-Developer-by-Rushikesh-Borude/
+portfolio   -   
+
+ https://rushikeshborude.github.io/Portfolio-of-UI-UX-Designer-frontend-developer-with-1year-experience/
+
+
+resume - 
+
+[Resume of UI UX Designer & frontend developer with 1year experience.pdf](https://github.com/user-attachments/files/15759221/Resume.of.UI.UX.Designer.frontend.developer.with.1year.experience.pdf)
+
+
+
 
 Twitter | X - https://twitter.com/RushikeshBorud1 
 
